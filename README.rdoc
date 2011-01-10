@@ -1,8 +1,8 @@
 = wikidot-mode.el
 
-A simple mode for editing "Wikidot":http://wikidot.com markup.
+A simple mode for editing Wikidot[http://wikidot.com markup].
 
-It's recommended that you use something like "Mozex":http://mozex.mozdev.org/ or "It's All Text":https://addons.mozilla.org/en-US/firefox/addon/4125/ for interfacing your browser with Emacs.
+It's recommended that you use something like Mozex[http://mozex.mozdev.org] or {It's All Text}[https://addons.mozilla.org/en-US/firefox/addon/4125] for interfacing your browser with Emacs.
 
 == What Works
 
@@ -13,3 +13,4 @@ It's recommended that you use something like "Mozex":http://mozex.mozdev.org/ or
 
 * Shortcut keys for starting particular types of markup blocks (+note+, +html+, &c.)
 * Use Wikidot API for completion of existing page names when linking to other Wiki pages
+* Support for smart indenting
