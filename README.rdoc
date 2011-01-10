@@ -1,6 +1,6 @@
 = wikidot-mode.el
 
-A simple mode for editing Wikidot[http://wikidot.com markup].
+A simple mode for editing Wikidot[http://wikidot.com] markup.
 
 It's recommended that you use something like Mozex[http://mozex.mozdev.org] or {It's All Text}[https://addons.mozilla.org/en-US/firefox/addon/4125] for interfacing your browser with Emacs.
 
